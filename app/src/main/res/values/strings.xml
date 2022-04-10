@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="settings">SETTINGS</string>
+    <string name="message">Do you want to play with the device</string>
+</resources>
